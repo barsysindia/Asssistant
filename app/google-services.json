@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "287562921239",
+    "firebase_url": "https://asssistant-7d354.firebaseio.com",
+    "project_id": "asssistant-7d354",
+    "storage_bucket": "asssistant-7d354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287562921239:android:b88520382c80eeb6",
+        "android_client_info": {
+          "package_name": "io.vishusrvstv.app.asssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287562921239-lhj2b8mnm0uoniihkb1mu98dkcpijali.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.vishusrvstv.app.asssistant",
+            "certificate_hash": "1f63c1b1f9ec11cc2819f94ff0c702bcaf1e3d25"
+          }
+        },
+        {
+          "client_id": "287562921239-n82dfoevquvkhfrrv5dc4t7b9eg9nplo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "287562921239-n82dfoevquvkhfrrv5dc4t7b9eg9nplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOCLxkSz-91vmBUXQEXBzo7pZfI8BXQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287562921239-n82dfoevquvkhfrrv5dc4t7b9eg9nplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
